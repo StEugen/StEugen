@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StEugen
-- 👀 I’m interested in Ai studies, neuro-networks studies, data science and some coding langs (like C#, Python)
+- 👀 I’m interested in cybersecurity, Ai studies, neuro-networks studies, data science and some coding langs (like C#, Python)
 - 🌱 I’m currently learning basics of programming
 
 <!---
