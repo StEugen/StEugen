@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StEugen
 - 👀 I’m interested in cybersecurity, Ai studies, neuro-networks studies, data science and some coding langs (like C#, Python)
-- 🌱 I’m currently learning basics of programming
+- 🌱 I’m currently learning basics of robotics and cybersecurity
 
 <!---
 StEugen/StEugen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
