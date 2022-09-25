@@ -3,6 +3,8 @@
 - I’m currently learning basics of robotics, cybersecurity and neuro-networks
 - Junior system administrator =)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
+
 My website: https://steugen.github.io
 <br>
 My FreeCodeCamp account: https://www.freecodecamp.org/StEugen
