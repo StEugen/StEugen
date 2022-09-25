@@ -4,6 +4,7 @@
 - Junior system administrator =)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/870199"></script>
 
 My website: https://steugen.github.io
 <br>
