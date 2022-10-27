@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @StEugen
 - I’m interested in cybersecurity, Ai studies, neuro-networks studies, data science and some coding langs (like C#, Python and javascript)
+- Fan of Linux
 - I’m currently learning basics of robotics, cybersecurity and neuro-networks
 - Junior system administrator =)
 
