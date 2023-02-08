@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StEugen
-- I’m interested in cybersecurity, Ai studies, neuro-networks studies, web-programming and some coding langs (like C#, Python and javascript)
+- I’m interested in cybersecurity, DevOps ideas, Ai studies, neuro-networks studies, web-programming and some coding langs (like C#, Python and javascript)
 - Fan of Linux
-- I’m intrested in web-development, devops ideas, cybersecurity and AI.
 - Junior system administrator =)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
