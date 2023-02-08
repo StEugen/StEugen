@@ -2,6 +2,7 @@
 - I’m interested in cybersecurity, DevOps ideas, Ai studies, neuro-networks studies, web-programming and some coding langs (like C#, Python and javascript)
 - Fan of Linux
 - Junior system administrator =)
+- Want to become a real full stack web-programmer
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
