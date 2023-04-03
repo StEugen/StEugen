@@ -21,6 +21,9 @@ My stack: <br>
 <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' style='width:70px'>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5iGGIZHHvZBaHsZf_EqDc_Fyoy7mKOXoNoBWpRzzDtVWQS5r75LcY7GsvdEH5Hv3UG8&usqp=CAU' style='width:60px'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' style='width:60px'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png' style='width:60px'>
+
+
 <!---
 StEugen/StEugen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
