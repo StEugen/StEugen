@@ -3,7 +3,7 @@
 - Fan of Linux
 - Junior dev =)
 - Want to become a real full stack web-programmer
-- </404>
+- <404/>
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
