@@ -22,6 +22,7 @@ My stack: <br>
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5iGGIZHHvZBaHsZf_EqDc_Fyoy7mKOXoNoBWpRzzDtVWQS5r75LcY7GsvdEH5Hv3UG8&usqp=CAU' style='width:60px'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' style='width:60px'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png' style='width:60px'>
+<img src='https://avatars.githubusercontent.com/u/1507452?s=200&v=4' style='width:60px'>
 
 
 <!---
