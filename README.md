@@ -25,6 +25,7 @@ My stack: <br>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' style='width:60px'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png' style='width:60px'>
 <img src='https://avatars.githubusercontent.com/u/1507452?s=200&v=4' style='width:65px'>
+<img src='https://api.mogenius.com/file/id/f7382e8b-be9a-4b6e-be70-cba7c3c664f2' style='width:65px'>
 
 
 <!---
