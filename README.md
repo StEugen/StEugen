@@ -9,8 +9,6 @@
 
  
 
-My website: https://steugen.github.io
-<br>
 My FreeCodeCamp account: https://www.freecodecamp.org/StEugen 
 <br>
 <404/> team site: https://four04-w1on.onrender.com 
