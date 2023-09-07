@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StEugen
-- I’m interested in cybersecurity, DevOps ideas, Ai studies, neuro-networks studies, web-programming and some coding langs (like C#, Python and javascript)
+- I’m interested in cybersecurity, DevOps ideas, Ai studies, neuro-networks studies, web-programming, IaC ideas and some coding langs (Python and javascript)
 - Fan of Linux
 - Junior dev =)
 - Want to become a real full stack web-programmer
