@@ -8,9 +8,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
 
  
-
-My FreeCodeCamp account: https://www.freecodecamp.org/StEugen 
-<br>
 <404/> team site: https://four04-w1on.onrender.com 
 
 My stack: <br>
