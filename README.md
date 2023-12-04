@@ -8,7 +8,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
 
  
-<404/> team site: https://four04-w1on.onrender.com 
+<404/> team site: https://404-3r7b.onrender.com
 
 My stack: <br>
 <img src='https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png' style='width:10%'>
