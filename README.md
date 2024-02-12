@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @StEugen
 - I’m interested in cybersecurity, DevOps ideas, Ai studies, web-programming, IaC ideas and some coding langs (Python and javascript)
 - Fan of Linux
-- Junior dev =)
-- On my way to master kubernetes and terraform
+- devOps =)
 - <404/>
 - Papochka returned with bread =)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/kali.d.png" alt="TryHackMe">
-
  
 <404/> team site: https://404-3r7b.onrender.com
 
