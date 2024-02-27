@@ -3,7 +3,6 @@
 - Fan of Linux
 - devOps =)
 - <404/>
-- Papochka returned with bread =)
  
 <404/> team site: https://404-3r7b.onrender.com
 
