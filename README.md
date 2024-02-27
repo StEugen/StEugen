@@ -15,7 +15,6 @@ My stack: <br>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' style='width:6%'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png' style='width:6%'>
 <img src='https://avatars.githubusercontent.com/u/1507452?s=200&v=4' style='width:6%'>
-<img src='https://www.architect.io/wp-content/uploads/2023/02/terraform-logo-on-black-square-440x440.png' style='width:6%'>
 <img src='https://kubernetes.io/images/favicon.png' style='width:6%' >
 <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' style='width:6%'>
 
