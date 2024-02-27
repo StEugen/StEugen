@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StEugen
-- I’m interested in cybersecurity, DevOps ideas, Ai studies, web-programming, IaC ideas and some coding langs (Python and javascript)
+- I’m interested in cybersecurity, DevOps ideas, Ai studies, web-programming, IaC ideas and some coding langs (Python, javascript, golang)
 - Fan of Linux
 - devOps =)
 - <404/>
