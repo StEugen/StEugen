@@ -8,8 +8,8 @@
 
 My stack: <br>
 
-<img title="Docker" alt="Docker" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" />|<img alt="Kubernetes" title="Kubernetes" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg">|<img alt="Terraform" title="Terraform" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/terraform.svg">|<img title="Ansible" alt="Ansible" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/ansible.svg">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/jenkins.svg">|
-|--|--|--|--|--|
+<img title="Docker" alt="Docker" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" />|<img alt="Kubernetes" title="Kubernetes" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg">|<img title="Ansible" alt="Ansible" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/ansible.svg">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/jenkins.svg">|
+|--|--|--|--|
 
 
 <img title="Python" alt="Python" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" />|<img alt="Django" title="Django" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg">|<img alt="Flask" title="Flask" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg">|
