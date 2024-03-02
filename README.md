@@ -7,15 +7,23 @@
 <404/> team site: https://404-3r7b.onrender.com
 
 My stack: <br>
-<img src='https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png' style='width:10%'>
-<img src='https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png' style='width:8%'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' style='width:6%'>
-<img src='https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png' style='width:6%'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' style='width:6%'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png' style='width:6%'>
-<img src='https://avatars.githubusercontent.com/u/1507452?s=200&v=4' style='width:6%'>
-<img src='https://kubernetes.io/images/favicon.png' style='width:6%' >
-<img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' style='width:6%'>
+
+<img title="Docker" alt="Docker" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/docker.svg" />|<img alt="Kubernetes" title="Kubernetes" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/kubernetes.svg">|<img alt="Terraform" title="Terraform" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/terraform.svg">|<img title="Ansible" alt="Ansible" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/ansible.svg">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/jenkins.svg">|
+|--|--|--|--|--|
+
+
+<img title="Python" alt="Python" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" />|<img alt="Django" title="Django" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg">|<img alt="Flask" title="Flask" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/flask.svg">|
+|--|--|--|
+
+
+<img alt="JavaScript" title="JavaScript" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg">|<img title="React" alt="React" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" />|<img title="ElectronJS" alt="ElectronJS" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/electron.svg">|
+|--|--|--|
+
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg">|<img title="Redis" alt="Redis" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/redis.svg" />|
+|--|--|
+
+<img title="Postman" alt="Postman" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" />|<img alt="Git" title="Git" width="40px" src="https://github.com/tomchen/stack-icons/blob/master/logos/git.svg">|
+|--|--|
 
 
 
